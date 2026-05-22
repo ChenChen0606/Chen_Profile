@@ -49,47 +49,38 @@ const gretchen = {
 
 ---
 
-## 💜 Featured Projects
+## 💜 Projects
 
 ### 🎓 Student Grading System
 > *Senior High School Research Project*
 
-A grading management system designed to automate and streamline student grade recording processes for schools.
+A grading management system designed to automate and streamline student grade recording processes for schools. Developed as a team research output during Senior High School.
 
 - 🔧 **Type:** Research & Prototype
 - 💡 **Purpose:** Automate student grade management
-- 🌸 **Highlight:** Built from scratch as an academic research project
+- 🌸 **Highlight:** Conceptualized, designed, and built from scratch as an academic research project
 
 ---
 
 ### 📋 OJT Tracker Application
 > *2nd Year College Project*
 
+A web application designed to help track and manage On-the-Job Training (OJT) activities for students. Built to solve the real need for organized internship monitoring and record keeping.
+
 - 🔧 **Type:** Web Application
-- 💡 **Purpose:** Monitor and manage student OJT progress
-- 🌸 **Link:** [View Project](https://github.com/ChenChen0606/_OJT_Tracker)
+- 💡 **Purpose:** Monitor and manage student OJT progress and records
+- 🌸 **Highlight:** Practical college project addressing a real student need
 
 ---
 
 ### 🏥 Clinic Management System — TCGC
 > *2nd Year College Project*
 
+A clinic management system developed for TCGC, designed to digitize patient records, manage appointments, and streamline clinic operations for an actual institution.
+
 - 🔧 **Type:** Management System
-- 💡 **Purpose:** Digitize and manage clinic records
-- 🌸 **Link:** [View Project](https://github.com/ChenChen0606/TCGC_CLS)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChenChen0606&show_icons=true&theme=purple-dark&hide_border=true&count_private=true&icon_color=CE93D8&title_color=CE93D8" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenChen0606&layout=compact&theme=purple-dark&hide_border=true&title_color=CE93D8" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenChen0606&theme=purple-dark&hide_border=true&ring=CE93D8&fire=f48fb1&currStreakLabel=CE93D8" height="160"/>
-</div>
+- 💡 **Purpose:** Digitize and manage clinic records and operations
+- 🌸 **Highlight:** Built for a real institution — bridging academic work with real-world impact
 
 ---
 
@@ -97,8 +88,8 @@ A grading management system designed to automate and streamline student grade re
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-CE93D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gretchentumilap2006@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-B39DDB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChenChen0606)
+[![Email](https://img.shields.io/badge/Email-CE93D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-B39DDB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
 
 </div>
 
